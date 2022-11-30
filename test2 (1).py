@@ -15,10 +15,7 @@ from matplotlib import pyplot as plt
 
 global pos
 arr = [0]
-# pos = 0
-# create figure
 fig = plt.figure(figsize=(100, 70))
-# setting values to rows and column variables
 rows = 40
 columns = 1
 
